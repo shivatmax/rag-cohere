@@ -1,0 +1,8 @@
+langchain 
+sentence-transformers 
+chromadb 
+pypdf 
+unstructured 
+pdf2image
+unstructured["pdf"]
+cohere
